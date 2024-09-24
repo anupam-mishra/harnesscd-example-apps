@@ -3,7 +3,7 @@ connector:
   identifier: gcpconnector
   description: ""
   orgIdentifier: default
-  projectIdentifier: default_project
+  projectIdentifier: test
   type: Gcp
   spec:
     credential:
